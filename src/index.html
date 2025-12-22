@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Credit Card Validator</title>
+  </head>
+  <body>
+    <div class="container">
+      <ul class="cards">
+        <li class="card" data-system="visa">
+          <img src="./img/visa.png" alt="Visa" />
+        </li>
+        <li class="card" data-system="mastercard">
+          <img src="./img/mastercard.png" alt="Mastercard" />
+        </li>
+        <li class="card" data-system="maestro">
+          <img src="./img/maestro.png" alt="Maestro" />
+        </li>
+        <li class="card" data-system="amex">
+          <img src="./img/amex.png" alt="American Express" />
+        </li>
+        <li class="card" data-system="jcb">
+          <img src="./img/jcb.png" alt="JCB" />
+        </li>
+        <li class="card" data-system="mir">
+          <img src="./img/mir.png" alt="МИР" />
+        </li>
+      </ul>
+
+      <form class="card-form">
+        <input
+          type="text"
+          class="card-input"
+          placeholder="Enter card number"
+          autocomplete="off"
+        />
+        <button class="card-button">Click to Validate</button>
+      </form>
+    </div>
+  </body>
+</html>

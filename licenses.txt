@@ -1,0 +1,16 @@
+Payment system icons:
+
+All icons used in this project were downloaded from https://www.flaticon.com
+
+Authors:
+- Visa icon by Freepik
+- MasterCard icon by Freepik
+- Maestro icon by Freepik
+- American Express icon by Freepik
+- JCB icon by Freepik
+- MIR icon by Freepik
+
+License:
+Flaticon License — free for personal and commercial use with attribution.
+
+This file is provided to comply with license requirements.
